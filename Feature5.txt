@@ -1,0 +1,17 @@
+# Operation Meteor - Feature 5
+
+## Summary
+
+Feature 5 implements advanced functionality for Operation Meteor.
+
+## Status: In Development
+
+## Key Components
+
+- Component A
+- Component B
+- Component C
+
+## Documentation
+
+See the doc/ directory for detailed technical documentation.
